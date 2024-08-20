@@ -1,0 +1,4 @@
+[submodule "integrador-backend"]
+	path = integrador-backend
+	url = https://github.com/carvalhods/integrador-backend
+	branch = master
