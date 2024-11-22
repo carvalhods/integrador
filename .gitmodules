@@ -2,3 +2,7 @@
 	path = integrador-backend
 	url = https://github.com/carvalhods/integrador-backend
 	branch = master
+[submodule "integrador-frontend"]
+	path = integrador-frontend
+	url = https://github.com/carvalhods/integrador-frontend
+	branch = master
